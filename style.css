@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    font-size: 70px;
+    color: turquoise;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img{
+    width: 700px;
+    height: 700px;
+    border-radius: 15px 5px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
